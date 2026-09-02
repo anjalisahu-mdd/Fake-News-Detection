@@ -174,17 +174,3 @@ and:
 ```python
 metrics.confusion_matrix(y_test, pred)
 ```
-
-## Future Improvements
-
-Possible extensions include:
-
-- Compare **TF-IDF** with CountVectorizer.
-- Compare Naive Bayes with other classification algorithms.
-- Add precision, recall, and F1-score.
-- Build a user interface for entering a news headline.
-- Add model persistence for reuse without retraining.
-
-## Disclaimer
-
-This repository describes the implementation contained in the provided source code. Any future modification, retraining, dataset change, or model improvement should be documented separately.
